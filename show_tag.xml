@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+	<algo>
+		<name>ব্রেথড ফার্স্ট সার্চ (বিএফএস)</name>
+		<tag>
+			<val>Tag</val>
+			<tag_name>graph</tag_name>
+			<tag_name>bfs</tag_name>
+		</tag>
+	</algo>
+
+	<algo>
+		<name>ডেপথ ফার্স্ট সার্চ (ডিএফএস)</name>
+		<tag>
+			<val>Tag</val>
+			<tag_name>graph</tag_name>
+			<tag_name>dfs</tag_name>
+		</tag>
+	</algo>
+
+	<algo>
+		<name>মডুলার অ্যারিথমেটিক</name>
+		<tag>
+			<val>Tag</val>
+			<tag_name>math</tag_name>
+			<tag_name>number theory</tag_name>
+			<tag_name>big mod</tag_name>
+			<tag_name>modular arithmetic</tag_name>
+		</tag>
+	</algo>
+
+	<algo>
+		<name>প্রাইম জেনারেটর (Sieve of Eratosthenes)</name>
+		<tag>
+			<val>Tag</val>
+			<tag_name>math</tag_name>
+			<tag_name>number theory</tag_name>
+			<tag_name>sieve</tag_name>
+			<tag_name>prime</tag_name>
+		</tag>
+	</algo>
+
+	<algo>
+		<name>বাইনারি সার্চ</name>
+		<tag>
+			<val>Tag</val>
+			<tag_name>binary search</tag_name>
+			<tag_name>search</tag_name>
+		</tag>
+	</algo>
+
+	<topic>
+		<name>নাম্বার থিওরি</name>
+		<sub_topic>প্রাইম জেনারেটর (Sieve of Eratosthenes)</sub_topic>
+		<sub_topic>মডুলার অ্যারিথমেটিক</sub_topic>
+	</topic>
+
+	<topic>
+		<name>গ্রাফ থিওরি</name>
+		<sub_topic>ব্রেথড ফার্স্ট সার্চ (বিএফএস)</sub_topic>
+		<sub_topic>ডেপথ ফার্স্ট সার্চ (ডিএফএস)</sub_topic>
+	</topic>
+
+	<topic>
+		<name>অন্যান্য</name>
+		<sub_topic>বাইনারি সার্চ</sub_topic>
+	</topic>
+
+</note>

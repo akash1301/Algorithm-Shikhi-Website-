@@ -1,0 +1,163 @@
+
+body{
+	background-image:url(website-background.jpg);
+	
+}
+
+#header{
+    height:140px;
+	margin-top: 0;
+	padding-top: 0;
+	border-radius: 20px;
+}
+
+#head{
+	height: 155px;
+	float: left;
+	margin-left: 0px;
+	width:700px;
+	background-color: black;
+}
+
+#head_img{
+	float:left;
+	/*margin-right: 0px;*/
+}
+
+#nav{
+	margin-top: 0;
+	height:50px;
+	width:96%;
+	background-color: black;
+}
+
+#nav li{
+	float:left;
+}
+
+#nav li a{
+	color:red;
+	padding-left: 10px;
+	padding-right: 20px;
+	text-decoration: none;
+	display: block;
+
+}
+
+#nav li:hover ul{
+	display: block;
+}
+
+#nav  ul{
+	display:none;
+	position:absolute ;
+	background-color: black;
+}
+
+#nav  ul li{
+	display: block;
+	float:none;
+}
+
+#nav  ul li a{
+	color:red;
+	padding-left:0px;
+	padding-right:15px;
+	text-decoration: none;
+	display: block;
+}
+
+#nav a:hover{
+	color: #990000;
+}
+
+#head_val{
+	margin-left:150px;
+	color:red;
+	font-size:35px;
+	padding-top: 0px;
+}
+
+#head_qut{
+	margin-left: 400px;
+	color:red;
+	font-size: 20px;
+}
+
+
+#body_des{
+	background-color:#CCCC99;
+	margin-left:auto;
+	margin-right:auto;
+	width:900px;
+	border-radius: 20px;
+}
+
+#body_des a{
+	color:#00802b;
+	text-decoration: none;
+}
+
+/*#body_des a:visited{
+	color: #999900;
+}*/
+
+#body_des a:hover{
+	color:black;
+	text-decoration: underline;
+}
+
+#body_des_bfs{
+	background-color:#CCCC99;
+	margin-left:auto;
+	margin-right:auto;
+	width:900px;
+	border-radius: 20px;
+}
+
+#body_des_bfs p{
+	margin-left:20px;
+	margin-right:10px;
+}
+
+#body_des_bfs a{
+	color:#3300CC;
+	text-decoration: none;
+}
+
+#body_des_bfs a:hover{
+	color:black;
+	text-decoration: underline;
+}
+
+#body_des_dfs{
+	background-color:#CCCC99;
+	margin-left:auto;
+	margin-right:auto;
+	width:900px;
+	border-radius: 20px;
+}
+
+#body_des_dfs p{
+	margin-left:20px;
+	margin-right:10px;
+}
+
+#body_des_dfs a{
+	color:#3300CC;
+	text-decoration: none;
+}
+
+#body_des_dfs a:hover{
+	color:black;
+	text-decoration: underline;
+}
+
+
+#slide li {
+	list-style:none;
+	color: #848482;
+	font-family:verdana;
+	font-size:35px;
+	font-style:italic;
+}
